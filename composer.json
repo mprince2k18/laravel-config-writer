@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": "^7.4|^8.0",
-        "illuminate/config": "8.0."
+        "illuminate/config": "8.*"
     },
     "require-dev": {
         "phpunit/phpunit": "^7.0"

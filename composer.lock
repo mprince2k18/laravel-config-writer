@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "990665f56b1e33b2680f208d9942949b",
+    "content-hash": "768d5099c588eb158b130e28f542a5e3",
     "packages": [
         {
             "name": "illuminate/collections",
@@ -62,22 +62,22 @@
         },
         {
             "name": "illuminate/config",
-            "version": "v8.0.0",
+            "version": "v8.34.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/config.git",
-                "reference": "d858eee78c95491f599e5df49870c9e3bb5dec7e"
+                "reference": "8441c542312b4d57220b1f942b947b6517c05008"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/illuminate/config/zipball/d858eee78c95491f599e5df49870c9e3bb5dec7e",
-                "reference": "d858eee78c95491f599e5df49870c9e3bb5dec7e",
+                "url": "https://api.github.com/repos/illuminate/config/zipball/8441c542312b4d57220b1f942b947b6517c05008",
+                "reference": "8441c542312b4d57220b1f942b947b6517c05008",
                 "shasum": ""
             },
             "require": {
                 "illuminate/collections": "^8.0",
                 "illuminate/contracts": "^8.0",
-                "php": "^7.3"
+                "php": "^7.3|^8.0"
             },
             "type": "library",
             "extra": {
@@ -106,7 +106,7 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2020-08-24T13:16:11+00:00"
+            "time": "2020-10-27T15:20:30+00:00"
         },
         {
             "name": "illuminate/contracts",

@@ -1,7 +1,7 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
+    'pretty_version' => '1.0',
     'version' => '1.0.0.0',
     'aliases' => 
     array (
@@ -31,12 +31,12 @@
     ),
     'illuminate/config' => 
     array (
-      'pretty_version' => 'v8.0.0',
-      'version' => '8.0.0.0',
+      'pretty_version' => 'v8.34.0',
+      'version' => '8.34.0.0',
       'aliases' => 
       array (
       ),
-      'reference' => 'd858eee78c95491f599e5df49870c9e3bb5dec7e',
+      'reference' => '8441c542312b4d57220b1f942b947b6517c05008',
     ),
     'illuminate/contracts' => 
     array (
@@ -58,7 +58,7 @@
     ),
     'mprince/laravel-config-writer' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
+      'pretty_version' => '1.0',
       'version' => '1.0.0.0',
       'aliases' => 
       array (
