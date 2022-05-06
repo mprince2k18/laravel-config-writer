@@ -24,8 +24,8 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => '1.1',
-    'version' => '1.1.0.0',
+    'pretty_version' => '1.2',
+    'version' => '1.2.0.0',
     'aliases' => 
     array (
     ),
@@ -45,44 +45,53 @@ private static $installed = array (
     ),
     'illuminate/collections' => 
     array (
-      'pretty_version' => 'v8.83.10',
-      'version' => '8.83.10.0',
+      'pretty_version' => 'v9.11.0',
+      'version' => '9.11.0.0',
       'aliases' => 
       array (
       ),
-      'reference' => 'fc232e89c0214dba5d2b431220a24b02d480a472',
+      'reference' => '32badf046bfc187afacbee37b9820c5e200285d0',
+    ),
+    'illuminate/conditionable' => 
+    array (
+      'pretty_version' => 'v9.11.0',
+      'version' => '9.11.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '56b4ba1166c264064bf63896f498a2bee320d16a',
     ),
     'illuminate/config' => 
     array (
-      'pretty_version' => 'v8.83.10',
-      'version' => '8.83.10.0',
+      'pretty_version' => 'v9.11.0',
+      'version' => '9.11.0.0',
       'aliases' => 
       array (
       ),
-      'reference' => 'feac56ab7a5c70cf2dc60dffe4323eb9851f51a8',
+      'reference' => 'd2dc74fdcc89239e1910a8d08b2b2e5ad26a043c',
     ),
     'illuminate/contracts' => 
     array (
-      'pretty_version' => 'v8.83.10',
-      'version' => '8.83.10.0',
+      'pretty_version' => 'v9.11.0',
+      'version' => '9.11.0.0',
       'aliases' => 
       array (
       ),
-      'reference' => '5e0fd287a1b22a6b346a9f7cd484d8cf0234585d',
+      'reference' => 'e354ef98f3c59e5c8b5ba87299999220270f3da5',
     ),
     'illuminate/macroable' => 
     array (
-      'pretty_version' => 'v8.83.10',
-      'version' => '8.83.10.0',
+      'pretty_version' => 'v9.11.0',
+      'version' => '9.11.0.0',
       'aliases' => 
       array (
       ),
-      'reference' => 'aed81891a6e046fdee72edd497f822190f61c162',
+      'reference' => '25a2c6dac2b7541ecbadef952702e84ae15f5354',
     ),
     'mprince/laravel-config-writer' => 
     array (
-      'pretty_version' => '1.1',
-      'version' => '1.1.0.0',
+      'pretty_version' => '1.2',
+      'version' => '1.2.0.0',
       'aliases' => 
       array (
       ),
@@ -216,21 +225,21 @@ private static $installed = array (
     ),
     'psr/container' => 
     array (
-      'pretty_version' => '1.1.2',
-      'version' => '1.1.2.0',
+      'pretty_version' => '2.0.2',
+      'version' => '2.0.2.0',
       'aliases' => 
       array (
       ),
-      'reference' => '513e0666f7216c7459170d56df27dfcefe1689ea',
+      'reference' => 'c71ecc56dfe541dbd90c5360474fbc405f8d5963',
     ),
     'psr/simple-cache' => 
     array (
-      'pretty_version' => '1.0.1',
-      'version' => '1.0.1.0',
+      'pretty_version' => '3.0.0',
+      'version' => '3.0.0.0',
       'aliases' => 
       array (
       ),
-      'reference' => '408d5eafb83c57f6365a3ca330ff23aa4a5fa39b',
+      'reference' => '764e0b3939f5ca87cb904f570ef9be2d78a07865',
     ),
     'sebastian/cli-parser' => 
     array (
